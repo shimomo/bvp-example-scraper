@@ -15,4 +15,4 @@ composer require bvp/kiryu-scraper
 ## License
 The BVP Kiryu Scraper package is open source software licensed under the [MIT license](LICENSE).
 
-update10
+update11
